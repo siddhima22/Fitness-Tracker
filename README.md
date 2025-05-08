@@ -48,21 +48,6 @@ A personal fitness web app built using **Streamlit** and **Machine Learning** to
 
 
 
-## ▶️ How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/siddhima22/Fitness-Tracker.git
-   cd Fitness-Tracker
-
-2. **Install dependencies**
-   ```bash
-   pip install -r requirements.txt
-
-3. **Run the app**
-   ```bash
-   streamlit run fitness_tracker.py
-
 ## 📬 Contact
 If you liked this project, have any queries or want to collaborate feel free to reach out! email: siddhimade@gmail.com
 
